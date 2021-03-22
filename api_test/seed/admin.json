@@ -1,0 +1,20 @@
+[
+    {
+        "model": "api.User",
+        "fields": {
+          "username": "Ajackus1",
+          "email": "veeresh@gmail.com",
+          "password": "Ajackus@$#123",
+          "is_superuser": 1
+        }
+    },
+  {
+        "model": "api.User",
+        "fields": {
+          "username": "Ajackus2",
+          "email": "veeresh@gmail.com",
+          "password": "Ajackus@$#123",
+          "is_superuser": 1
+        }
+    }
+]
